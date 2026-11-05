@@ -1,0 +1,7 @@
+metric,baseline LLM,retrieval only,our system
+Hallucination rate % (lower=better),2.0,0.0,0.0
+Genre precision@5 %,91.8,78.0,82.0
+Explanation faithfulness %,,,96.0
+Correct abstention on nonsense %,0.0,,0.0
+False abstention on valid queries %,0.0,,0.0
+Avg latency (s/query),3.6,,324.0

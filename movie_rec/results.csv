@@ -1,0 +1,3 @@
+system,hallucination_rate_%,genre_precision_%
+baseline,2.0,91.8
+ours,0.0,82.0
